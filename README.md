@@ -22,6 +22,9 @@ List of features ready and TODOs for future development
 *  Graph also included to show the world wide cases of every month.
 *  Store persistent data
 
+## Image
+![image](https://user-images.githubusercontent.com/82977704/122777986-30ddc880-d2ca-11eb-88ed-d8cb1c8c8087.png)
+
 ## Status
 Minor project: Completed
 
